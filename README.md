@@ -7,7 +7,8 @@ Hands-on SOC lab demonstrating automated file analysis by integrating Wazuh SIEM
 ### 1. Threat Intelligence Credential Provisioning
 Provisioned an active API key from VirusTotal's threat intelligence platform[cite: 1]. This key allows the local Wazuh SIEM deployment to programmatically query VirusTotal's multi-engine database using file hashes generated on protected endpoints, eliminating manual hash lookups during incident triage[cite: 1, 3, 4].
 
-<img width="1885" height="802" alt="Screenshot 2026-10-05 122949" src="https://github.com/user-attachments/assets/6d20d04b-d890-4973-a899-fe866b907846" />
+<img width="1885" height="802" alt="Screenshot 2026-10-05 122949" src="https://github.com/user-attachments/assets/41212400-64cd-4769-aa4c-8f88ffd5b745" />
+
 
 
 ---
